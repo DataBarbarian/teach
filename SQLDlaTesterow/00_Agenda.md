@@ -1,4 +1,4 @@
-# SQL Dla Testerów - Agenda
+# Podstawy SQL Dla Testerów - Agenda
 
 ## 1. Logiczny plan wykonania zapytania
 
@@ -21,6 +21,7 @@ czas i data
 
 ## 4. Złączenia
 
+### 4.1. Złączenia krzyżowe
 INNER JOIN
 LEFT OUTER JOIN
 RIGHT OUTER JOIN
